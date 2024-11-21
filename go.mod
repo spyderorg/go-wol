@@ -8,5 +8,5 @@ require (
 	github.com/mattn/go-colorable v0.1.11
 	github.com/sabhiram/go-colorize v0.0.0-20210403184538-366f55d711cf
 	github.com/stretchr/testify v0.0.0-20150929183540-2b15294402a8
-	golang.org/x/sys v0.0.0-20211103235746-7861aae1554b // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
